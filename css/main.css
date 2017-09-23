@@ -1,0 +1,97 @@
+/*MAIN CSS FILE
+ * Overide the bootstrap
+ * */
+
+.blue
+{
+  background-color: #002e5b;
+  color: white;
+}
+
+.navmenu
+{
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    color: #002e5b;
+}
+
+.jumbo
+{
+    padding: 120px;
+    background-image: url("../img/1.jpg");
+    border-radius: 0px;
+}
+
+.jumbotron
+{
+    border-radius: 0px;
+    margin-bo
+}
+.bsc
+{
+    padding: 50px;
+    background-color: #002e5b;
+    color: white;
+}
+
+.glyph
+{
+    font-size: 38px;
+}
+
+.services
+{
+    color: #002e5b;
+}
+.custom_panel
+{
+    padding: none;
+    margin: none;
+}
+
+.glpyh
+{
+    border: 1px solid black;
+}
+
+.custom_panel
+{
+    border: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.custom_panel > div.panel-heading
+{
+    background-color: white;
+    border: none;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.glyph > .glyphicon
+{
+    background-color: #002e5b;
+    border-radius: 100px;
+    padding: 8px;
+    color: yellow;
+
+}
+
+.footer
+{
+    padding: 50px;
+    background-color: #002e5b;
+    color: white;
+}
+
+.footer_head
+{
+    color: yellow;
+    font-weight: bold;
+}
+
+.footer ul.padded li
+{
+    padding: 5px;
+}
